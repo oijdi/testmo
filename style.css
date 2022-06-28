@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    height: 100vh;
+    background: url(bcksummer.jpg) center/cover;
+ 
+}
+
+nav{
+    width: 60%;
+    margin: auto ;
+    background: cadetblue;
+}
+
+ul{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+li{
+    background: peachpuff;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
